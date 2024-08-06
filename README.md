@@ -11,3 +11,7 @@ Currently supports only global release.
 # Download
 
 https://www.github.com/yamiM0NSTER/loa-optimizer/releases
+
+# Screenshots
+
+![loa-optimizer-preview](https://i.imgur.com/Fqx2reu.png)
