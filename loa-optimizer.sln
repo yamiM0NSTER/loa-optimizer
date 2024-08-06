@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loa-optimizer-core", "loa-optimizer-core\loa-optimizer-core.csproj", "{75CCE360-4136-4360-B38A-5D25ACBE7044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loa-optimizer-core", "loa-optimizer-core\loa-optimizer-core.csproj", "{75CCE360-4136-4360-B38A-5D25ACBE7044}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loa-optimizer", "loa-optimizer\loa-optimizer.csproj", "{E12678C5-070D-4A8E-B926-0465AB0D2196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loa-optimizer", "loa-optimizer\loa-optimizer.csproj", "{E12678C5-070D-4A8E-B926-0465AB0D2196}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
